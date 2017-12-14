@@ -1,5 +1,5 @@
 @echo off
-TITLE SURVIVAL V1.3 ( The Open Source Game)
+TITLE SURVIVAL V1.3 (Silky Terrier) The Open Source Game
 mkdir savefiles
 Setlocal EnableDelayedExpansion
 set build=________2017___.__CTE
@@ -707,7 +707,3 @@ timeout 2>nul
 cls
 )
 goto loop
-   
-   
-   
-  
